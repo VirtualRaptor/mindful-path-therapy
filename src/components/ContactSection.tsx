@@ -87,7 +87,7 @@ const ContactSection = () => {
             className="rounded-xl overflow-hidden border border-border h-[300px] md:h-full min-h-[300px]"
           >
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2400.123!2d18.606!3d53.013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTPCsDAwJzQ3LjAiTiAxOMKwMzYnMjEuNiJF!5e0!3m2!1spl!2spl!4v1700000000000"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2435.5!2d18.6038!3d53.0131!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470334e2ce74f0a1%3A0x6e5e2e1c5a8b9c0d!2sMa%C5%82achowskiego%209%2C%2087-100%20Toru%C5%84!5e0!3m2!1spl!2spl!4v1700000000000"
               width="100%"
               height="100%"
               style={{ border: 0 }}

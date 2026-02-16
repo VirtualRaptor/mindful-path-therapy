@@ -3,10 +3,11 @@ export type Language = "pl" | "de" | "en";
 export const translations = {
   pl: {
     nav: {
-      home: "Strona główna",
+      home: "Strona Główna",
       offer: "Oferta",
       pricing: "Cennik",
-      about: "O mnie",
+      about: "O Mnie",
+      media: "Media",
       contact: "Kontakt",
     },
     hero: {
@@ -61,6 +62,9 @@ export const translations = {
       whatsappBtn: "WhatsApp",
       emailBtn: "Napisz e-mail",
     },
+    media: {
+      title: "Wystąpienia Medialne",
+    },
     footer: {
       rights: "Wszelkie prawa zastrzeżone.",
     },
@@ -70,7 +74,8 @@ export const translations = {
       home: "Startseite",
       offer: "Angebot",
       pricing: "Preise",
-      about: "Über mich",
+      about: "Über Mich",
+      media: "Medien",
       contact: "Kontakt",
     },
     hero: {
@@ -125,6 +130,9 @@ export const translations = {
       whatsappBtn: "WhatsApp",
       emailBtn: "E-Mail schreiben",
     },
+    media: {
+      title: "Medienauftritte",
+    },
     footer: {
       rights: "Alle Rechte vorbehalten.",
     },
@@ -135,6 +143,7 @@ export const translations = {
       offer: "Services",
       pricing: "Pricing",
       about: "About",
+      media: "Media",
       contact: "Contact",
     },
     hero: {
@@ -188,6 +197,9 @@ export const translations = {
       callBtn: "Call",
       whatsappBtn: "WhatsApp",
       emailBtn: "Send e-mail",
+    },
+    media: {
+      title: "Media Appearances",
     },
     footer: {
       rights: "All rights reserved.",

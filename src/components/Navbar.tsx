@@ -18,6 +18,7 @@ const Navbar = () => {
     { label: t.nav.offer, href: "#offer" },
     { label: t.nav.pricing, href: "#pricing" },
     { label: t.nav.about, href: "#about" },
+    { label: t.nav.media, href: "#media" },
     { label: t.nav.contact, href: "#contact" },
   ];
 
@@ -35,7 +36,7 @@ const Navbar = () => {
           onClick={(e) => { e.preventDefault(); scrollTo("#hero"); }}
           className="text-lg font-bold tracking-tight text-foreground"
         >
-          reaktywacje
+          Reaktywacje
         </a>
 
         {/* Desktop nav */}
