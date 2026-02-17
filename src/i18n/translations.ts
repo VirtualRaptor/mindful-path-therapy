@@ -41,7 +41,7 @@ export const translations = {
       title: "Cennik",
       session: "Sesja psychoterapii",
       duration: "50 minut",
-      price: "140 zł",
+      price: "200 zł",
       note: "Płatność przelewem lub BLIK. Wizytę można odwołać bezpłatnie do 24h przed planowanym terminem.",
     },
     about: {
@@ -109,7 +109,7 @@ export const translations = {
       title: "Preise",
       session: "Psychotherapie-Sitzung",
       duration: "50 Minuten",
-      price: "140 PLN",
+      price: "200 PLN",
       note: "Zahlung per Überweisung oder BLIK. Termine können bis 24 Stunden vorher kostenlos abgesagt werden.",
     },
     about: {
@@ -177,7 +177,7 @@ export const translations = {
       title: "Pricing",
       session: "Psychotherapy session",
       duration: "50 minutes",
-      price: "140 PLN",
+      price: "200 PLN",
       note: "Payment by bank transfer or BLIK. Appointments can be canceled free of charge up to 24 hours in advance.",
     },
     about: {
