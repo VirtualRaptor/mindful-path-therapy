@@ -12,7 +12,7 @@ export const translations = {
     },
     hero: {
       title: "Psychoterapia Toruń",
-      subtitle: "wsparcie w zmianie i w kryzysie",
+      subtitle: "wsparcie w zmianie i kryzysie",
       description: "Toruń, ul. Małachowskiego 9/1 oraz online – psychoterapia poznawczo-behawioralna dorosłych",
       call: "Zadzwoń",
       whatsapp: "WhatsApp",
@@ -42,7 +42,7 @@ export const translations = {
       session: "Sesja psychoterapii",
       duration: "50 minut",
       price: "200 zł",
-      note: "Płatność przelewem lub BLIK. Wizytę można odwołać bezpłatnie do 24h przed planowanym terminem.",
+      note: "Płatność przelewem. Wizytę można odwołać bezpłatnie do 24h przed planowanym terminem.",
     },
     about: {
       title: "O mnie",
@@ -80,7 +80,7 @@ export const translations = {
     },
     hero: {
       title: "Psychotherapie Toruń",
-      subtitle: "Unterstützung bei Veränderung und in der Krise",
+      subtitle: "Unterstützung bei Veränderung und Krise",
       description: "Toruń, ul. Małachowskiego 9/1 und online – kognitive Verhaltenstherapie für Erwachsene",
       call: "Anrufen",
       whatsapp: "WhatsApp",
@@ -110,7 +110,7 @@ export const translations = {
       session: "Psychotherapie-Sitzung",
       duration: "50 Minuten",
       price: "200 PLN",
-      note: "Zahlung per Überweisung oder BLIK. Termine können bis 24 Stunden vorher kostenlos abgesagt werden.",
+      note: "Zahlung per Überweisung. Termine können bis 24 Stunden vorher kostenlos abgesagt werden.",
     },
     about: {
       title: "Über mich",
@@ -148,7 +148,7 @@ export const translations = {
     },
     hero: {
       title: "Psychotherapy Toruń",
-      subtitle: "support in change and in crisis",
+      subtitle: "support in change and crisis",
       description: "Toruń, ul. Małachowskiego 9/1 and online – cognitive-behavioral therapy for adults",
       call: "Call",
       whatsapp: "WhatsApp",
@@ -178,7 +178,7 @@ export const translations = {
       session: "Psychotherapy session",
       duration: "50 minutes",
       price: "200 PLN",
-      note: "Payment by bank transfer or BLIK. Appointments can be canceled free of charge up to 24 hours in advance.",
+      note: "Payment by bank transfer. Appointments can be canceled free of charge up to 24 hours in advance.",
     },
     about: {
       title: "About me",
