@@ -27,7 +27,7 @@ export const translations = {
       crisis: "Kryzys życiowy",
       crisisDesc: "Nagłe trudne sytuacje, strata, żałoba, poczucie zagubienia.",
       change: "Potrzeba zmiany",
-      changeDesc: "Poczucie utknięcia, chęć rozwoju osobistego, nowe wyzwania życiowe.",
+      changeDesc: "Wypalenie zawodowe, chęć rozwoju osobistego, nowe wyzwania życiowe.",
       stationary: "Sesje stacjonarne",
       stationaryDesc: "Gabinet w Toruniu przy ul. Małachowskiego 9/1 – kameralna, bezpieczna przestrzeń.",
       online: "Sesje online",
