@@ -25,7 +25,6 @@ const AboutSection = () => {
         >
           <p className="text-foreground leading-relaxed">{t.about.p1}</p>
           <p className="text-foreground leading-relaxed">{t.about.p2}</p>
-          <p className="text-foreground leading-relaxed">{t.about.p3}</p>
           <p className="text-sm font-semibold text-primary tracking-wide mt-8">{t.about.values}</p>
         </motion.div>
       </div>
