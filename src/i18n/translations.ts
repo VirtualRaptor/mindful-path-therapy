@@ -46,8 +46,9 @@ export const translations = {
     },
     about: {
       title: "O mnie",
-      p1: "Jestem psychologiem i psychoterapeutą poznawczo-behawioralnym. Pracuję z osobami dorosłymi, które zmagają się z lękiem, obniżonym nastrojem, kryzysem lub poszukują wsparcia w procesie zmiany.",
-      p2: "W pracy terapeutycznej stawiam na bezpieczeństwo, poufność i szacunek. Wierzę, że zmiana jest możliwa, gdy jest oparta na zaufaniu i współpracy. Prowadzę sesje stacjonarnie w Toruniu oraz online.",
+      p1: "Jestem psychologiem (specjalność psychologia kliniczna), psychoterapeutą poznawczo-behawioralnym, wykładowcą. Pracuję z osobami dorosłymi, które zmagają się z lękiem, obniżonym nastrojem, kryzysem lub poszukują wsparcia w procesie zmiany.",
+      p2: "Odbyłam staże z psychoterapii na oddziałach: Klinicznym Psychiatrii Młodzieży oraz Psychiatrycznym Żeńskim w Wojewódzkim Szpitalu Zespolonym w Toruniu. Posiadam certyfikat Racjonalnej Terapii Zachowania (RTZ), Terapii Skoncentrowanej na Rozwiązaniach (TSR), społecznej odpowiedzialności biznesu CSR, moderatora Design Thinkingu. Duży wpływ wywarło na mnie kilkumiesięczne stypendium w Wielkiej Brytanii, na Uniwersytecie Londyńskim, a także w Leeds, Coventry i Guildford.",
+      p3: "W pracy terapeutycznej stawiam na bezpieczeństwo, poufność i szacunek. Wierzę, że zmiana jest możliwa, gdy jest oparta na zaufaniu i współpracy. W pracy kieruję się dobrem pacjenta, dlatego poddaję się superwizji.",
       values: "Bezpieczeństwo · Poufność · Szacunek · Współpraca",
     },
     contact: {
@@ -113,8 +114,9 @@ export const translations = {
     },
     about: {
       title: "Über mich",
-      p1: "Ich bin Psychologe und kognitiver Verhaltenstherapeut. Ich arbeite mit Erwachsenen, die mit Angst, Niedergeschlagenheit, Krisen kämpfen oder Unterstützung im Veränderungsprozess suchen.",
-      p2: "In meiner therapeutischen Arbeit lege ich Wert auf Sicherheit, Vertraulichkeit und Respekt. Ich glaube, dass Veränderung möglich ist, wenn sie auf Vertrauen und Zusammenarbeit basiert.",
+      p1: "Ich bin Psychologin (Fachrichtung klinische Psychologie), kognitive Verhaltenstherapeutin und Dozentin. Ich arbeite mit Erwachsenen, die mit Angst, Niedergeschlagenheit, Krisen kämpfen oder Unterstützung im Veränderungsprozess suchen.",
+      p2: "Ich habe Praktika in Psychotherapie auf den Stationen der Klinischen Jugendpsychiatrie und der Psychiatrischen Frauenstation im Wojewódzki Szpital Zespolony in Toruń absolviert. Ich besitze Zertifikate in Rationaler Verhaltenstherapie (RVT), Lösungsorientierter Kurzzeittherapie (LOKT), CSR und Design Thinking. Einen großen Einfluss hatte mein mehrmonatiges Stipendium in Großbritannien an der University of London sowie in Leeds, Coventry und Guildford.",
+      p3: "In meiner therapeutischen Arbeit lege ich Wert auf Sicherheit, Vertraulichkeit und Respekt. Ich glaube, dass Veränderung möglich ist, wenn sie auf Vertrauen und Zusammenarbeit basiert. Ich lasse mich supervidieren, da mir das Wohl meiner Patienten am Herzen liegt.",
       values: "Sicherheit · Vertraulichkeit · Respekt · Zusammenarbeit",
     },
     contact: {
@@ -180,8 +182,9 @@ export const translations = {
     },
     about: {
       title: "About me",
-      p1: "I am a psychologist and cognitive-behavioral therapist. I work with adults who struggle with anxiety, low mood, crisis, or seek support in the process of change.",
-      p2: "In my therapeutic work, I prioritize safety, confidentiality, and respect. I believe change is possible when it is built on trust and collaboration.",
+      p1: "I am a psychologist (specializing in clinical psychology), cognitive-behavioral therapist, and lecturer. I work with adults who struggle with anxiety, low mood, crisis, or seek support in the process of change.",
+      p2: "I completed psychotherapy internships at the Clinical Youth Psychiatry and Women's Psychiatric wards at the Wojewódzki Szpital Zespolony in Toruń. I hold certificates in Rational Behavior Therapy (RBT), Solution-Focused Therapy (SFT), CSR, and Design Thinking facilitation. A significant influence on my professional development was a several-month scholarship in the United Kingdom at the University of London, as well as in Leeds, Coventry, and Guildford.",
+      p3: "In my therapeutic work, I prioritize safety, confidentiality, and respect. I believe change is possible when it is built on trust and collaboration. I undergo supervision, as my patients' well-being is my priority.",
       values: "Safety · Confidentiality · Respect · Collaboration",
     },
     contact: {
