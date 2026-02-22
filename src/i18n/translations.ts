@@ -12,7 +12,7 @@ export const translations = {
     },
     hero: {
       title: "Psychoterapia Toruń",
-      subtitle: "wsparcie psychologiczne w zmianie i kryzysie",
+      subtitle: "wsparcie psychologiczne w kryzysie i zmianie",
       description: "Toruń, ul. Małachowskiego 9/1 oraz online – psychoterapia poznawczo-behawioralna dorosłych",
       call: "Zadzwoń",
       whatsapp: "WhatsApp",
