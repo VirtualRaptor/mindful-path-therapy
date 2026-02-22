@@ -17,7 +17,7 @@ const HeroSection = () => {
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground leading-tight">
             {t.hero.title}
             <span className="block text-2xl md:text-3xl lg:text-4xl font-normal text-muted-foreground mt-3">
-              – {t.hero.subtitle}
+              <span className="font-bold">Dr Alina Matlakiewicz</span> – {t.hero.subtitle}
             </span>
           </h1>
           <p className="mt-6 text-base md:text-lg text-muted-foreground max-w-xl leading-relaxed">

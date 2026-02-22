@@ -12,7 +12,7 @@ export const translations = {
     },
     hero: {
       title: "Psychoterapia Toruń",
-      subtitle: "Dr Alina Matlakiewicz – wsparcie psychologiczne w zmianie i kryzysie",
+      subtitle: "wsparcie psychologiczne w zmianie i kryzysie",
       description: "Toruń, ul. Małachowskiego 9/1 oraz online – psychoterapia poznawczo-behawioralna dorosłych",
       call: "Zadzwoń",
       whatsapp: "WhatsApp",
@@ -79,7 +79,7 @@ export const translations = {
     },
     hero: {
       title: "Psychotherapie Toruń",
-      subtitle: "Dr. Alina Matlakiewicz – psychologische Unterstützung bei Veränderung und Krise",
+      subtitle: "psychologische Unterstützung bei Veränderung und Krise",
       description: "Toruń, ul. Małachowskiego 9/1 und online – kognitive Verhaltenstherapie für Erwachsene",
       call: "Anrufen",
       whatsapp: "WhatsApp",
@@ -146,7 +146,7 @@ export const translations = {
     },
     hero: {
       title: "Psychotherapy Toruń",
-      subtitle: "Dr Alina Matlakiewicz – psychological support in change and crisis",
+      subtitle: "psychological support in change and crisis",
       description: "Toruń, ul. Małachowskiego 9/1 and online – cognitive-behavioral therapy for adults",
       call: "Call",
       whatsapp: "WhatsApp",
