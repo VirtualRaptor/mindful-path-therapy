@@ -6,14 +6,14 @@ const OfferSection = () => {
   const { t } = useLanguage();
 
   const items = [
-    { icon: Brain, title: t.offer.cbt, desc: t.offer.cbtDesc },
-    { icon: ShieldAlert, title: t.offer.anxiety, desc: t.offer.anxietyDesc },
     { icon: CloudRain, title: t.offer.depression, desc: t.offer.depressionDesc },
+    { icon: ShieldAlert, title: t.offer.anxiety, desc: t.offer.anxietyDesc },
     { icon: Compass, title: t.offer.crisis, desc: t.offer.crisisDesc },
     { icon: Users, title: t.offer.change, desc: t.offer.changeDesc },
-    { icon: Monitor, title: t.offer.online, desc: t.offer.onlineDesc },
     { icon: MapPin, title: t.offer.stationary, desc: t.offer.stationaryDesc },
-    { icon: Brain, title: t.offer.adults, desc: t.offer.adultsDesc },
+    { icon: Monitor, title: t.offer.online, desc: t.offer.onlineDesc },
+    { icon: Brain, title: t.offer.cbt, desc: t.offer.cbtDesc },
+    { icon: Users, title: t.offer.adults, desc: t.offer.adultsDesc },
   ];
 
   return (
